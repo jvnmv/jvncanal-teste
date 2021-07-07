@@ -1,2 +1,0 @@
-# jvncanal-teste
-jvncanal/teste
